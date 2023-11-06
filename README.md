@@ -22,7 +22,7 @@ Please folow the walkthrough provided.
 
 ## Demo
 
-![Walkthrough](./examples/walkthrough.mp4)
+![Walkthrough](./examples/walkthrough.gif)
 
 
 ## License
